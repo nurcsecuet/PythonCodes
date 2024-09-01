@@ -3,7 +3,7 @@ index = 0
 for x in mylist:
     if x == 0:
         mylist.pop(index)
-    index +=1git
+    index +=1
 print(mylist)
 print("Im learning how to append")
 
