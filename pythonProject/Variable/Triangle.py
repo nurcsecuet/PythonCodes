@@ -1,5 +1,3 @@
-
-
 a = int(input("Enter the value: "))
 i = 1
 sum = 0
